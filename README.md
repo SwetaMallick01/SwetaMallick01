@@ -1,4 +1,4 @@
-👋 Hello
+# 👋 Hello #
 I'm Sweta and have experience working in Data Analysis and Project Management areas.
 
 🧑‍💻 When I'm not at work or managing projects, you can often find me coding, learning new stuff, and honing my skills on various areas including ✳️ ✳️ Data Analysis and ✳️ Data Visualization projects.
