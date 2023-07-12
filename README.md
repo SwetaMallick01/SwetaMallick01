@@ -8,3 +8,5 @@ I also love working with different technologies & platforms and my current favor
 ❤️ SQL / PostgreSQL / MySQL
 ❤️ Python
 ❤️ Powerbi
+❤️ Excel
+
