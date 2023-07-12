@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @SwetaMallick01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm Sweta and have experience working in Data Analysis and Project Management areas.
 
-<!---
-SwetaMallick01/SwetaMallick01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧑‍💻 When I'm not at work or managing projects, you can often find me coding, learning new stuff, and honing my skills on various areas including ✳️ ✳️ Data Analysis and ✳️ Data Visualization projects.
+
+I also love working with different technologies & platforms and my current favorite ones are
+
+❤️ SQL / PostgreSQL / MySQL
+❤️ Python
+❤️ Powerbi
