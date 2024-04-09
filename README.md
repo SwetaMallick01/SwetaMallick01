@@ -1,5 +1,5 @@
 # 👋 Hello #
-I'm Sweta and have experience working in Data Analysis.
+I'm Sweta 
 
 🧑‍💻You can often find me coding, learning new stuff, and honing my skills on various areas including ✳️ ✳️ Data Analysis and ✳️ Data Visualization projects.
 
